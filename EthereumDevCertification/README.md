@@ -1,6 +1,4 @@
 ### Ethereum development using solidity and web3 + react
-Welcome to my repository of projects from the "Ethereum and Solidity: The Complete Developer's Guide" course at Udemy.
-I control my progress here and I update the out-dated materials as much as I can to newer standards.
 
 ### `Inbox` project
 
